@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Tile
+comment1.params=keyGiven\ speedGiven\ waitGiven\ classGiven
+comment1.target=Tile(java.lang.String,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ tile\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=int\ getTotalPoints()
+comment4.params=
+comment4.target=void\ clearPoints()
+numComments=5

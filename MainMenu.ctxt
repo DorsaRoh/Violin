@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MainMenu
+comment0.text=\r\n\ Credits\:\r\n\ Sounds/Music\:\ https\://virtualpiano.net/virtual-violin/\r\n\ \r\n\ Instructions\:\r\n\ The\ player\ is\ presented\ with\ two\ options\:\ Free\ play\ and\ Tile\ play.\r\n\ Free\ play\ allows\ the\ user\ to\ play\ any\ melody\ they\ wish\ by\ having\r\n\ full\ access\ to\ the\ functionalities\ of\ the\ game.\r\n\ The\ objective\ of\ Tile\ play\ is\ to\ have\ the\ user\ press\ the\ right\ key\r\n\ at\ the\ right\ time,\ which\ is\ determined\ by\ the\ tiles\ that\ appear\ \r\n\ from\ the\ top\ of\ the\ screen.\ When\ each\ tile\ is\ pressed\ correctly,\ it\ will\r\n\ emit\ its\ appropriate\ violin\ sound.\r\n
+comment1.params=
+comment1.target=MainMenu()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ prepare()
+comment3.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+numComments=4

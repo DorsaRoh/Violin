@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=HardViolinTiles
+comment1.params=
+comment1.target=HardViolinTiles()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ hardGame()
+comment4.params=
+comment4.target=void\ prepare()
+comment4.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+numComments=5
