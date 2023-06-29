@@ -7,5 +7,5 @@
 **OR**
 1. Download *Gungeon.jar* and open it (may not always work!)
 
-##Credits
+### Credits
 **Sound/Music:** virtualpiano.net
