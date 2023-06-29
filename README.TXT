@@ -1,12 +1,11 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
+# How to Run
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+1. Download Greenfoot
+2. Download Gungeon.gfar and open it
+3. Click Run to play the game
+
+**OR**
+1. Download *Gungeon.jar* and open it (may not always work!)
+
+**Credits**
+**Sound/Music:** virtualpiano.net
