@@ -1,11 +1,5 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
-/**
- * Write a description of class C8 here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
 public class E4 extends Actor
 {
     GreenfootImage upImage = new GreenfootImage("key4up.png"); 

@@ -1,11 +1,5 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
-/**
- * Write a description of class yellow here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
 public class E2 extends Actor
 {
     GreenfootImage upImage = new GreenfootImage("key2up.png"); 

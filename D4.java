@@ -1,11 +1,6 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
-/**
- * Write a description of class D4 here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
+
 public class D4 extends Note
 {
     GreenfootImage upImage = new GreenfootImage("keyFup.png");
