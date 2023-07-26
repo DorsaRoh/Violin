@@ -1,7 +1,7 @@
 # Violin
 A virtual violin simulator and game in Greenfoot (Java framework)!
 
-![Violin Screen](Guides\violin.png)
+![Violin Menu]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://raw.githubusercontent.com/DorsaRoh/Violin/master/Guides/menu.png) "Logo Title Text 1")
 
 ## How to Run
 
