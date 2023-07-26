@@ -9,6 +9,10 @@ A virtual violin simulator and game in Greenfoot (Java framework)!
 2. Download Violin.gfar and open it
 3. Click *Run* to play the game
 
+OR
+
+Play on the official Greenfoot Website here: 
+https://www.greenfoot.org/scenarios/31701
 
 ### Credits
 **Sound/Music:** virtualpiano.net
