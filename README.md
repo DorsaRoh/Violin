@@ -1,7 +1,7 @@
 # Violin
 A virtual violin simulator and game in Greenfoot (Java framework)
 
-![Violin Screen](Guides\menu.png "Violin Screen")
+![Violin Screen](Guides\violin.png)
 
 ## How to Run
 
