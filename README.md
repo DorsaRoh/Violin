@@ -1,5 +1,5 @@
 # Violin
-A virtual violin simulator and game in Greenfoot (Java framework)!
+A virtual violin simulator and game in Greenfoot (Java framework)
 
 ![Violin Menu](https://raw.githubusercontent.com/DorsaRoh/Violin/master/Guides/menu.png "Logo Title Text 1")
 
